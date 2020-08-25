@@ -1,0 +1,14 @@
+fonte	tabela	descricao	nome_curto	tempestividade	url_cns	qry	periodos
+sidra / ibge	1737	IPCA	ipca_br	Mensal	http://api.sidra.ibge.gov.br/values	/t/1737/p/{}/n1/all/v/all/d/2	all
+sidra / ibge	7060	IPCA (Brasil, Região Metropolitana e Municípios)	ipca_mun	Mensal	http://api.sidra.ibge.gov.br/values	/t/7060/p/{}/n1/all/n7/all/n6/all/v/all/c315/7169,7170,7171,7432,7445,7486,7558,7625,7660,7661,107659,109464,47653,7683,7712,7766,7786/d/2	last24
+sidra / ibge	3065	IPCA15	ipca15_br	Mensal	http://api.sidra.ibge.gov.br/values	/t/3065/p/{}/n1/all/v/all/d/2	all
+sidra / ibge	7062	IPCA15 (Brasil, Região Metropolitana e Municípios)	ipca15_mun	Mensal	http://api.sidra.ibge.gov.br/values	/t/7062/p/{}/n1/all/n7/all/n6/all/v/all/c315/7169,7170,7171,7432,7445,7486,7558,7625,7660,7661,107659,109464,47653,7683,7712,7766,7786/d/2	last24
+sidra / ibge	1736	INPC	inpc_br	Mensal	http://api.sidra.ibge.gov.br/values	/t/1736/p/{}/n1/all/v/all/d/2	all
+sidra / ibge	7063	INPC (Brasil, Região Metropolitana e Municípios)	inpc_mun	Mensal	http://api.sidra.ibge.gov.br/values	/t/7063/p/{}/n1/all/n7/all/n6/all/v/all/c315/7169,7170,7171,7432,7445,7486,7558,7625,7660,7661,107659,109464,47653,7683,7712,7766,7786/d/2	last24
+sidra / ibge	5932	Contas Nacionais Trimestrais	pib	Trimestral	http://api.sidra.ibge.gov.br/values	/t/5932/p/{}/n1/all/v/all/c11255/all/d/2	all
+sidra / ibge	3419	Pesquisa Mensal do Comércio 	pmc	Mensal	http://api.sidra.ibge.gov.br/values	/t/3419/p/{}/n1/all/n3/all/v/all/c85/all/c11046/all/d/2	last24
+sidra / ibge	5918	População (por grupo de idade)	pnad_ct	Trimestral	http://api.sidra.ibge.gov.br/values	/t/5918/p/{}/n1/all/n3/all/n7/all/n6/all/v/all/c58/all/d/2	last8
+sidra / ibge	5437	Rendimento médio da população ocupada, com rendimento de trabalho (por grupo de idade)	rend_pop_ocup	Mensal	http://api.sidra.ibge.gov.br/values	/t/5437/p/{}/n1/all/n3/all/n7/all/n6/all/v/all/c58/all/d/2	last12
+sidra / ibge	4094	População ocupada (por grupo de idade)	pop_ocup	Mensal	http://api.sidra.ibge.gov.br/values	/t/4094/p/{}/n1/all/n3/all/n7/all/n6/all/v/all/d/2	last12
+bacen	4393	Índice de Confiançao do Consumidor	ind_conf_cons	Mensal	http://api.bcb.gov.br/dados/serie/bcdata.sgs.{}/dados?formato=json	4393	
+bacen	24363	Índice de Atividade Econômica do Banco Central	ibc_br	Mensal	http://api.bcb.gov.br/dados/serie/bcdata.sgs.{}/dados?formato=json	24363	
