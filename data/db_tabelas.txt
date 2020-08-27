@@ -8,7 +8,5 @@ sidra / ibge	7063	INPC (Brasil, Região Metropolitana e Municípios)	inpc_mun	Me
 sidra / ibge	5932	Contas Nacionais Trimestrais	pib	Trimestral	http://api.sidra.ibge.gov.br/values	/t/5932/p/{}/n1/all/v/all/c11255/all/d/2	all
 sidra / ibge	3419	Pesquisa Mensal do Comércio 	pmc	Mensal	http://api.sidra.ibge.gov.br/values	/t/3419/p/{}/n1/all/n3/all/v/all/c85/all/c11046/all/d/2	last12
 sidra / ibge	5918	População (por grupo de idade)	pnad_ct	Trimestral	http://api.sidra.ibge.gov.br/values	/t/5918/p/{}/n1/all/n3/all/n7/all/n6/all/v/all/c58/all/d/2	last12
-sidra / ibge	5437	Rendimento médio da população ocupada, com rendimento de trabalho (por grupo de idade)	rend_pop_ocup	Mensal	http://api.sidra.ibge.gov.br/values	/t/5437/p/{}/n1/all/n3/all/n7/all/n6/all/v/all/c58/all/d/2	last3
-sidra / ibge	4094	População ocupada (por grupo de idade)	pop_ocup	Mensal	http://api.sidra.ibge.gov.br/values	/t/4094/p/{}/n1/all/n3/all/n7/all/n6/all/v/all/d/2	last3
-bacen	4393	Índice de Confiançao do Consumidor	ind_conf_cons	Mensal	http://api.bcb.gov.br/dados/serie/bcdata.sgs.{}/dados?formato=json	4393	
-bacen	24363	Índice de Atividade Econômica do Banco Central	ibc_br	Mensal	http://api.bcb.gov.br/dados/serie/bcdata.sgs.{}/dados?formato=json	24363	
+bacen	4393	Índice de Confiançao do Consumidor	ind_conf_cons	Mensal	http://api.bcb.gov.br/dados/serie/bcdata.sgs.{}/dados?formato=json	4393
+bacen	24363	Índice de Atividade Econômica do Banco Central	ibc_br	Mensal	http://api.bcb.gov.br/dados/serie/bcdata.sgs.{}/dados?formato=json	24363
