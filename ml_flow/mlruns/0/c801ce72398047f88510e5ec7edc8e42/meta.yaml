@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rodrigobraga/Documents/IBBA/agro/rainfall_forecast/mlflow/mlruns/0/c801ce72398047f88510e5ec7edc8e42/artifacts
+end_time: 1620491504102
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: c801ce72398047f88510e5ec7edc8e42
+run_uuid: c801ce72398047f88510e5ec7edc8e42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1620491485152
+status: 3
+tags: []
+user_id: rodrigobraga

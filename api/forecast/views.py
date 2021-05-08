@@ -14,4 +14,4 @@ async def predictions(cd_estacao: str = Header(None)):
     pred = inmet.prophetPredict(cd_estacao=cd_estacao)
     pred_filt = pred[['ds', 'yhat']].to_dict(orient='records')
     resp = jsonable_encoder(pred_filt)
-    return JSONResponse(content=resp) 
+    return JSONResponse(content=resp)

@@ -1,0 +1,7 @@
+channels:
+- defaults
+- conda-forge
+dependencies:
+- prophet=1.0
+- cloudpickle=1.6.0
+name: fbp_env
