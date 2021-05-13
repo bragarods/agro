@@ -39,7 +39,7 @@ prometheus-client==0.10.1
 prometheus-flask-exporter==0.18.2
 prophet==1.0.1
 protobuf==3.16.0
-pydantic==1.8.1
+pydantic==1.8.2
 PyMeeus==0.5.11
 pyparsing==2.4.7
 pystan==2.19.1.1
